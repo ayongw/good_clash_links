@@ -2,7 +2,7 @@
 some good clash links
 
 ## NanoCloud
-1月/月 100G  线路不多
+1月/月 100G  线路不多、不稳定，只是简单访问网页可以，
 [访问链接](https://47.83.166.245/auth/register?code=bBajX3oV)
 
 
